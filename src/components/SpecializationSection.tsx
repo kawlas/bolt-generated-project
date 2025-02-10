@@ -13,27 +13,27 @@
       const services = [
         {
           icon: <Building2 className="w-8 h-8 text-accent" />,
-          title: 'Montaż Dachu',
+          title: 'Roof Installation',
           description:
-            'Profesjonalny montaż dachów z różnych materiałów.',
+            'Expert roof installation services using high-quality materials.',
         },
         {
           icon: <Hammer className="w-8 h-8 text-accent" />,
-          title: 'Naprawa Dachów',
+          title: 'Damage Repair',
           description:
-            'Szybka i skuteczna naprawa uszkodzeń dachowych.',
+            'Quick and efficient repair services for all types of roof damage.',
         },
         {
           icon: <Settings className="w-8 h-8 text-accent" />,
-          title: 'Obróbki Blacharskie',
+          title: 'Cornering',
           description:
-            'Wykonujemy obróbki blacharskie na najwyższym poziomie.',
+            'Professional cornering services to ensure the integrity of your roof.',
         },
         {
           icon: <Wrench className="w-8 h-8 text-accent" />,
-          title: 'Przeglądy Dachów',
+          title: 'Cleaning',
           description:
-            'Regularne przeglądy techniczne stanu dachu.',
+            'Comprehensive roof cleaning services to remove debris and maintain your roof.',
         },
       ];
 
@@ -42,12 +42,11 @@
           <div className="container mx-auto px-4">
             <div className="text-center mb-12">
               <h3 className="text-gray-500 uppercase tracking-wider text-sm mb-2">
-                Nasza Oferta
+                What We Do
               </h3>
-              <h2 className="text-3xl font-bold mb-4">Nasza Specjalizacja</h2>
+              <h2 className="text-3xl font-bold mb-4">Our Specialization</h2>
               <p className="text-gray-700 leading-relaxed">
-                Oferujemy szeroki zakres usług dekarskich, dostosowanych do
-                indywidualnych potrzeb.
+                We offer a wide range of roofing services to meet your needs.
               </p>
             </div>
 
@@ -60,6 +59,11 @@
                   description={service.description}
                 />
               ))}
+            </div>
+            <div className="text-right mt-8">
+              <a href="#" className="text-accent hover:underline">
+                View all services
+              </a>
             </div>
           </div>
         </section>

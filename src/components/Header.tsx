@@ -8,17 +8,18 @@
         <header className="bg-primary text-white py-4">
           <div className="container mx-auto flex items-center justify-between px-4">
             {/* Logo */}
-            <div className="text-2xl font-bold">TOP DEKARZ</div>
+            <div className="text-2xl font-bold">Roofnox</div>
 
             {/* Navigation */}
             <nav>
               <ul className="flex space-x-6">
-                <li><a href="#home" className="hover:text-accent">Strona Główna</a></li>
-                <li><a href="#about" className="hover:text-accent">O Nas</a></li>
-                <li><a href="#services" className="hover:text-accent">Usługi</a></li>
-                <li><a href="#projects" className="hover:text-accent">Realizacje</a></li>
-                <li><a href="#news" className="hover:text-accent">Aktualności</a></li>
-                <li><a href="#contact" className="hover:text-accent">Kontakt</a></li>
+                <li><a href="#home" className="hover:text-accent">Home</a></li>
+                <li><a href="#about" className="hover:text-accent">About Us</a></li>
+                <li><a href="#services" className="hover:text-accent">Services</a></li>
+                <li><a href="#projects" className="hover:text-accent">Projects</a></li>
+                <li><a href="#news" className="hover:text-accent">News</a></li>
+                <li><a href="#pages" className="hover:text-accent">Pages</a></li>
+                <li><a href="#contact" className="hover:text-accent">Contact Us</a></li>
               </ul>
             </nav>
 

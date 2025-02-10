@@ -9,9 +9,4 @@ import { defineConfig } from 'vite'
           '@': '/src',
         },
       },
-      server: {
-        hmr: {
-          overlay: false
-        }
-      }
     })

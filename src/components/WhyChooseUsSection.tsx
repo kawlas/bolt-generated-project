@@ -9,8 +9,8 @@
             {/* Left Column - Image */}
             <div>
               <img
-                src="/images/ekipa_dekarska.jpg"
-                alt="Ekipa Dekarska"
+                src="https://picsum.photos/id/1023/600/400"
+                alt="Roofing Work"
                 className="rounded-md shadow-lg"
               />
             </div>
@@ -18,15 +18,17 @@
             {/* Right Column - Text Content */}
             <div>
               <h3 className="text-gray-500 uppercase tracking-wider text-sm mb-2">
-                Dlaczego Wybrać Nas?
+                Why Choose Us
               </h3>
               <h2 className="text-3xl font-bold mb-4">
-                Gwarancja Jakości i Profesjonalizmu
+                The advantages of our company are in the quality of repairs
               </h2>
               <p className="text-gray-700 leading-relaxed">
-                TOP DEKARZ to pewność solidnego wykonania i trwałych rozwiązań.
-                Nasi doświadczeni dekarze zapewniają najwyższą jakość usług i
-                indywidualne podejście do każdego klienta.
+                We are committed to providing the highest quality roofing
+                services. Our team of skilled professionals uses the best
+                materials and techniques to ensure your roof is durable and
+                long-lasting. We prioritize customer satisfaction and strive to
+                exceed your expectations.
               </p>
             </div>
           </div>

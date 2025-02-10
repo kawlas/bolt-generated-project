@@ -13,13 +13,13 @@
               {/* Left Column - Text Content */}
               <div>
                 <hr className="border-t-2 border-gray-300 mb-4 w-24" />
-                <h2 className="text-3xl font-bold mb-4">O Nas</h2>
+                <h2 className="text-3xl font-bold mb-4">About Us</h2>
                 <p className="text-gray-700 leading-relaxed">
-                  TOP DEKARZ to firma z wieloletnim doświadczeniem w branży
-                  dekarskiej. Nasza siedziba znajduje się w Luboniu, a
-                  działamy na terenie całego województwa wielkopolskiego.
-                  Specjalizujemy się w kompleksowych usługach dekarskich,
-                  oferując naprawy, wymiany oraz nowe konstrukcje dachowe.
+                  We are a team of experienced roofing professionals dedicated to
+                  providing top-quality roofing services. With years of
+                  experience, we have built a reputation for excellence and
+                  customer satisfaction. We specialize in all types of roofing
+                  projects, from repairs to complete replacements.
                 </p>
               </div>
 
@@ -30,24 +30,24 @@
                   <span className="text-4xl font-bold text-accent">
                     {happyClients.toLocaleString()}
                   </span>
-                  <p className="text-gray-700">Zadowolonych Klientów</p>
+                  <p className="text-gray-700">Happy Clients</p>
                 </div>
 
                 {/* Image Cards */}
                 <div className="col-span-2 grid grid-cols-2 gap-4">
                   <img
-                    src="/images/naprawa_dachu.jpg"
-                    alt="Naprawa Dachu"
+                    src="https://picsum.photos/id/1016/400/300"
+                    alt="Roof Repair"
                     className="rounded-md shadow-md"
                   />
                   <img
-                    src="/images/wymiana_dachu.jpg"
-                    alt="Wymiana Dachu"
+                    src="https://picsum.photos/id/1017/400/300"
+                    alt="Roof Replacement"
                     className="rounded-md shadow-md"
                   />
                   <img
-                    src="/images/uszkodzenie_dachu.jpg"
-                    alt="Uszkodzenie Dachu"
+                    src="https://picsum.photos/id/1018/400/300"
+                    alt="Roof Damage"
                     className="rounded-md shadow-md"
                   />
                 </div>
