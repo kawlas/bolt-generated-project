@@ -6,23 +6,23 @@
     const OurWorkSection = () => {
       const projects = [
         {
-          title: 'Modern Roofing Style',
-          description: 'Completed project with a modern roofing style.',
+          title: 'Nowoczesny Styl Dachu',
+          description: 'Zrealizowany projekt z nowoczesnym stylem dachu.',
           imageUrl: 'https://picsum.photos/id/1019/400/300',
         },
         {
-          title: 'Roof Replacement',
-          description: 'Successful roof replacement project.',
+          title: 'Wymiana Dachu',
+          description: 'Udany projekt wymiany dachu.',
           imageUrl: 'https://picsum.photos/id/1020/400/300',
         },
         {
-          title: 'New Installation',
-          description: 'New roof installation for a residential property.',
+          title: 'Nowa Instalacja',
+          description: 'Nowa instalacja dachu dla nieruchomości mieszkalnej.',
           imageUrl: 'https://picsum.photos/id/1021/400/300',
         },
         {
-          title: 'Renovation',
-          description: 'Roof renovation project.',
+          title: 'Renowacja',
+          description: 'Projekt renowacji dachu.',
           imageUrl: 'https://picsum.photos/id/1022/400/300',
         },
       ];
@@ -32,10 +32,10 @@
           <div className="container mx-auto px-4">
             <div className="text-center mb-12">
               <h3 className="text-gray-500 uppercase tracking-wider text-sm mb-2">
-                Our Work
+                Nasza Praca
               </h3>
               <h2 className="text-3xl font-bold mb-4">
-                Successfully completed projects for our clients
+                Pomyślnie zrealizowane projekty dla naszych klientów
               </h2>
             </div>
 
@@ -51,7 +51,7 @@
             </div>
             <div className="text-right mt-8">
               <span className="text-3xl font-bold text-accent">180+</span>
-              <span className="text-gray-700 ml-2">Projects Completed</span>
+              <span className="text-gray-700 ml-2">Zrealizowanych Projektów</span>
             </div>
           </div>
         </section>

@@ -13,27 +13,27 @@
       const services = [
         {
           icon: <Building2 className="w-8 h-8 text-accent" />,
-          title: 'Roof Installation',
+          title: 'Montaż Dachu',
           description:
-            'Expert roof installation services using high-quality materials.',
+            'Eksperckie usługi montażu dachu z użyciem wysokiej jakości materiałów.',
         },
         {
           icon: <Hammer className="w-8 h-8 text-accent" />,
-          title: 'Damage Repair',
+          title: 'Naprawa Uszkodzeń',
           description:
-            'Quick and efficient repair services for all types of roof damage.',
+            'Szybkie i efektywne usługi naprawy wszystkich rodzajów uszkodzeń dachu.',
         },
         {
           icon: <Settings className="w-8 h-8 text-accent" />,
-          title: 'Cornering',
+          title: 'Obróbka Blacharska',
           description:
-            'Professional cornering services to ensure the integrity of your roof.',
+            'Profesjonalne usługi obróbki blacharskiej w celu zapewnienia integralności dachu.',
         },
         {
           icon: <Wrench className="w-8 h-8 text-accent" />,
-          title: 'Cleaning',
+          title: 'Czyszczenie',
           description:
-            'Comprehensive roof cleaning services to remove debris and maintain your roof.',
+            'Kompleksowe usługi czyszczenia dachu w celu usunięcia zanieczyszczeń i konserwacji dachu.',
         },
       ];
 
@@ -42,11 +42,12 @@
           <div className="container mx-auto px-4">
             <div className="text-center mb-12">
               <h3 className="text-gray-500 uppercase tracking-wider text-sm mb-2">
-                What We Do
+                Co Robimy
               </h3>
-              <h2 className="text-3xl font-bold mb-4">Our Specialization</h2>
+              <h2 className="text-3xl font-bold mb-4">Nasza Specjalizacja</h2>
               <p className="text-gray-700 leading-relaxed">
-                We offer a wide range of roofing services to meet your needs.
+                Oferujemy szeroki zakres usług dekarskich, aby sprostać Twoim
+                potrzebom.
               </p>
             </div>
 
@@ -62,7 +63,7 @@
             </div>
             <div className="text-right mt-8">
               <a href="#" className="text-accent hover:underline">
-                View all services
+                Zobacz wszystkie usługi
               </a>
             </div>
           </div>

@@ -9,18 +9,17 @@
             {/* Left Column - Text Content */}
             <div className="mb-10 md:mb-0">
               <h1 className="text-4xl md:text-5xl font-bold mb-4">
-                Build Modern Roofing Solutions
+                Budujemy Nowoczesne Rozwiązania Dachowe
               </h1>
               <p className="text-lg mb-8">
-                We provide high-quality roofing services for residential and
-                commercial properties.
+                Świadczymy wysokiej jakości usługi dekarskie dla budynków mieszkalnych i komercyjnych.
               </p>
               <div className="flex space-x-4">
                 <button className="bg-accent text-white py-2 px-6 rounded-md hover:opacity-80">
-                  REPAIRS
+                  NAPRAWY
                 </button>
                 <button className="bg-accent text-white py-2 px-6 rounded-md hover:opacity-80">
-                  REPLACEMENT
+                  WYMIANA
                 </button>
               </div>
             </div>
@@ -29,7 +28,7 @@
             <div>
               <img
                 src="https://picsum.photos/id/1015/800/600"
-                alt="Roofing"
+                alt="Dach"
                 className="rounded-md shadow-lg"
               />
             </div>

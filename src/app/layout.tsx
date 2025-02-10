@@ -1,5 +1,6 @@
 import React from 'react';
     import Header from '@/components/Header';
+    import Footer from '@/components/Footer';
 
     export default function RootLayout({
       children,
@@ -7,13 +8,14 @@ import React from 'react';
       children: React.ReactNode;
     }) {
       return (
-        <html lang="en">
+        <html lang="pl">
           <head>
-            <title>Roofing Company</title>
+            <title>TOP DEKARZ</title>
           </head>
           <body className="font-sans antialiased">
             <Header />
             <main>{children}</main>
+            <Footer />
           </body>
         </html>
       );

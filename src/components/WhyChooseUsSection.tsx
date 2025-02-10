@@ -10,7 +10,7 @@
             <div>
               <img
                 src="https://picsum.photos/id/1023/600/400"
-                alt="Roofing Work"
+                alt="Prace Dekarskie"
                 className="rounded-md shadow-lg"
               />
             </div>
@@ -18,17 +18,18 @@
             {/* Right Column - Text Content */}
             <div>
               <h3 className="text-gray-500 uppercase tracking-wider text-sm mb-2">
-                Why Choose Us
+                Dlaczego My
               </h3>
               <h2 className="text-3xl font-bold mb-4">
-                The advantages of our company are in the quality of repairs
+                Zalety naszej firmy tkwią w jakości napraw
               </h2>
               <p className="text-gray-700 leading-relaxed">
-                We are committed to providing the highest quality roofing
-                services. Our team of skilled professionals uses the best
-                materials and techniques to ensure your roof is durable and
-                long-lasting. We prioritize customer satisfaction and strive to
-                exceed your expectations.
+                Jesteśmy zobowiązani do świadczenia usług dekarskich najwyższej
+                jakości. Nasz zespół wykwalifikowanych profesjonalistów
+                wykorzystuje najlepsze materiały i techniki, aby zapewnić, że
+                Twój dach jest trwały i długotrwały. Priorytetem jest dla nas
+                zadowolenie klienta i dążymy do przekroczenia Twoich
+                oczekiwań.
               </p>
             </div>
           </div>
